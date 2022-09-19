@@ -1,4 +1,4 @@
-# Arbitrage-bot-public
+# Centralized-arbitrage-bot-public
 Arbitrage bot for crypto opportunities
 
 Introduction
